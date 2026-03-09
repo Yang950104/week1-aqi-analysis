@@ -3,4 +3,3 @@
 
 # Ignore data and outputs if they shouldn't be committed
 /data/
-/outputs/
